@@ -7,15 +7,24 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Amazon" />
+        <module name="Chase" />
         <module name="CNN" />
+        <module name="Facebook" />
         <module name="Generic" />
+        <module name="Health" />
+        <module name="WellCare" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Amazon" target="1.8" />
+      <module name="Chase" target="1.8" />
       <module name="CNN" target="1.8" />
+      <module name="Facebook" target="1.5" />
       <module name="Generic" target="1.8" />
+      <module name="Health" target="1.8" />
       <module name="Web-Automation-Framework" target="1.8" />
+      <module name="Web-Automation-Framework-Team2" target="1.5" />
+      <module name="WellCare" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

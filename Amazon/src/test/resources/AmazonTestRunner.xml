@@ -11,9 +11,10 @@
 
 <test name = "Amazon Home">
     <classes>
-        <!--<class name="home.TestAmazonSearch"/>-->
-        <!--<class name="home.SearchInput"/>-->
-        <class name="menu.TestDropDownMenu"/>
+        <!--<class name="home.TestSearchPage"/>-->
+        <!--<class name="menu.TestDropDownMenu"/>-->
+        <class name="home.TestSignInPage"/>
+        <!--<class name="home.TestCreateAccountPage"/>-->
     </classes>
 </test>
 
